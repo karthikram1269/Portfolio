@@ -138,6 +138,32 @@ body.dark-mode .about-section {
     line-height: 1.6;
 }
 
+/* Education Section */
+.education-section {
+    padding: 4rem 2rem;
+    background-color: #fafafa;
+    text-align: center;
+    scroll-margin-top: 100px;
+}
+
+.education-section h2 {
+    font-size: 2.5rem;
+    /* margin-bottom: 1rem; */
+}
+
+body.dark-mode .education-section {
+    background-color: black; /* Dark mode */
+}
+
+.education-section h5 {
+    font-size: 1.2rem;
+    max-width: 800px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin: 0 auto;
+    /* line-height: 1.6; */
+}
+
 /* Skills Section */
 .skills-section {
     padding: 4rem 2rem;

@@ -69,6 +69,25 @@ function Header() {
 
             </section>
 
+            <section id="education" className="education-section">
+                <h2>Education</h2>
+                <div className="container">
+            <h5>Bachelor of Technology (2020-2024)</h5> <br/>
+            <p>Computer Science and Engineering <br/>
+            Kalasalingam Academy of Research and Education, Krishnan koil <br/>
+            Percentage – 70.2</p>
+            <h5>Intermediate (2018 -2020)</h5> <br/>
+            <p>Narayana junior college, Guntur <br/>
+            Percentage – 78.6</p>
+            <h5>Secondary School (2017-2018)</h5> <br/>
+            <p>Computer Science and Engineering <br/>
+            Vignan High School, Peda Palakaluru <br/>
+            Percentage – 85.5</p>
+            
+            </div>
+
+            </section>
+
             <section id="skills" className="skills-section">
                 <h2>Skills</h2>
                 <ul>
