@@ -119,7 +119,7 @@ nav ul li button:hover {
     padding: 4rem 2rem;
     background-color: #fafafa;
     text-align: center;
-    scroll-margin-top: 100px;
+    scroll-margin-top: 65px;
 }
 
 body.dark-mode .about-section {
