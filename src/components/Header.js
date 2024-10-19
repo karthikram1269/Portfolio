@@ -63,7 +63,8 @@ function Header() {
                 <h2>About Me</h2>
                 <div className="container">
             <p>An aspiring front-end developer with a passion for building responsive and accessible websites. Learnt major web technologies, built cloning websites initially. Later, started building own websites. And starting from the beginner stage, all projects are pushed to my github. <br/> GitHub Repository :
-            <a href='https://github.com/karthikram1269?tab=repositories' target="_blank" style={{color:"coral"}}> Link</a>
+            <a href='https://github.com/karthikram1269?tab=repositories' target="_blank" style={{color:"coral"}}> Link</a> <br/> Resume :
+            <a href='https://drive.google.com/file/d/1920_-nCYoopWA78I00P7ua0avr6EFHGf/view?usp=drive_link' target="_blank" style={{color:"coral"}}> Link</a>
             </p>
             </div>
 
@@ -125,7 +126,8 @@ function Header() {
 
             <section id="contact" className="contact-section">
                 <h2>Contact </h2>
-                <p>@ <a href="mailto:gudimetlakarthikram@gmail.com">gudimetlakarthikram@gmail.com</a></p>
+                <p>@ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gudimetlakarthikram@gmail.com">gudimetlakarthikram@gmail.com</a></p>
+                <p>@ <a href="https://www.linkedin.com/in/karthik-ram-gudimetla-5b1743269/">LinkedIn</a></p>
             </section>
         </div>
     );

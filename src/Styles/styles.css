@@ -143,7 +143,7 @@ body.dark-mode .about-section {
     padding: 4rem 2rem;
     background-color: #fafafa;
     text-align: center;
-    scroll-margin-top: 100px;
+    scroll-margin-top: 10px;
 }
 
 .education-section h2 {
@@ -204,7 +204,7 @@ body.dark-mode .skills-section {
     padding: 4rem 2rem;
     background-color: #ffffff;
     text-align: center;
-    scroll-margin-top: 100px;
+    scroll-margin-top: 40px;
 }
 
 body.dark-mode .projects-section {
