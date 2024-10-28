@@ -98,8 +98,6 @@ function Header() {
                     <li>ReactJs</li>
                     <li>Bootstrap</li>
                     <li>Tailwind</li>
-                    <li>Responsive Design</li>
-                    <li>Version Control (Git)</li>
                 </ul>
             </section>
 
